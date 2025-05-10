@@ -1,0 +1,35 @@
+CORE MOODS AND COMPATIBLE TONES:
+
+| **Mood Enum** | **Covers**                                                                 |
+| ------------- | -------------------------------------------------------------------------- |
+| **Happy**     | Joyful, content, cheerful, amused, optimistic                              |
+| **Proud**     | Confident, satisfied, accomplished, self-assured                           |
+| **Playful**   | Mischievous, joking, teasing, whimsical, sarcastic                         |
+| **Sad**       | Lonely, disappointed, hopeless, melancholic                                |
+| **Angry**     | Frustrated, annoyed, resentful, irritable                                  |
+| **Guilty**    | Embarrassed, ashamed, remorseful                                           |
+| **Scared**    | Anxious, nervous, afraid, worried                                          |
+| **Calm**      | Relaxed, peaceful, focused, meditative                                     |
+| **Apathetic** | Indifferent, bored, emotionally flat                                       |
+| **Tired**     | Exhausted, drained, sleepy                                                 |
+| **Excited**   | Enthusiastic, energetic, thrilled                                          |
+| **Friendly**  | Warm, kind, welcoming  
+
+
+PARTS OF A SENTENCE:
+
+| Part            | Description                             | Example                                  |
+| --------------- | --------------------------------------- | ---------------------------------------- |
+| **Subject**     | Who or what the sentence is about       | *The cat* sat on the mat.                |
+| **Predicate**   | What the subject does or is             | The cat *sat on the mat.*                |
+| **Verb**        | The action or state of being            | The cat ***sat*** on the mat.            |
+| **Aux Verb**    | Helping verbs                           | He ***did*** say that.            |
+| **Object**      | Who or what is affected by the verb     | She kicked ***the ball***.               |
+| **Complement**  | Adds more info to the subject or object | The food smells ***delicious***.         |
+| **Modifier**    | Describes (adjectives/adverbs/phrases)  | The ***angry*** cat hissed ***loudly***. |
+| **Clause**      | A subject + predicate unit              | *Because it rained*, we stayed inside.   |
+| **Phrase**      | A group of words without a full clause  | *On the table*, *with red fur*, etc.     |
+| **Conjunction** | Joins clauses or phrases                | I ran *and* fell.                        |
+| **Preposition** | Shows relation/direction/location       | The book is *on* the table.              |
+| **Determiner**  | Introduces a noun                       | *The* dog barked.                        |
+| **Pronoun**     | Replaces a noun                         | *He* laughed.                            |

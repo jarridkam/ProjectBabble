@@ -1,0 +1,66 @@
+{
+  "Greetings": {
+    "Hey there. First time seeing you around here.": {
+      "Mood": ["Happy"],
+      "Tone": "Optimistic"
+    },
+    "You look like someone who knows what they're doing.": {
+      "Mood": ["Proud"],
+      "Tone": "Confident"
+    },
+    "Lost, or just pretending to be mysterious?": {
+      "Mood": ["Playful"],
+      "Tone": "Sarcastic"
+    },
+    "...You okay? You look like you've been through a lot.": {
+      "Mood": ["Sad"],
+      "Tone": "Muted"
+    },
+    "What are you staring at? Move along.": {
+      "Mood": ["Angry"],
+      "Tone": "Confrontational"
+    },
+    "Didn’t mean to bump into you—wasn’t watching where I was going.": {
+      "Mood": ["Guilty"],
+      "Tone": "Apologetic"
+    },
+    "...Wait. Did you hear that? Something’s off.": {
+      "Mood": ["Scared"],
+      "Tone": "Anxious"
+    },
+    "Hmm. You’re not from around here, are you?": {
+      "Mood": ["Calm"],
+      "Tone": "Even"
+    },
+    "Right. Another one. Great.": {
+      "Mood": ["Apathetic"],
+      "Tone": "Flat"
+    },
+    "Yawn... didn’t expect visitors this early.": {
+      "Mood": ["Tired"],
+      "Tone": "Sleepy",
+      "Specifications": {
+        "Time": "Morning"
+      }
+    },
+    "Oh wow—you’re new! That’s exciting.": {
+      "Mood": ["Excited"],
+      "Tone": "Thrilled"
+    },
+    "Well hey! Always nice to meet someone new.": {
+      "Mood": ["Friendly"],
+      "Tone": "Warm"
+    }
+  },
+  "QuestionStarts": {
+    "Who": {},
+    "What":{},
+    "When":{},
+    "Where":{},
+    "Why": {}
+  },
+  "Sentence Fragments": 
+  {
+  }
+          
+}
